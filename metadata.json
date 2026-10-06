@@ -1,0 +1,6 @@
+{
+  "name": "ShieldVPN",
+  "description": "Fast and secure VPN with one-tap connection, unlimited data, global free servers, dark mode, and real-time speed testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
